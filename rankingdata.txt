@@ -1,0 +1,7 @@
+aaa 1 10        
+bbb 2 10
+ccc 3 10
+aaa 4 10
+bbb 5 10
+ccc 6 10
+aaa 7 5

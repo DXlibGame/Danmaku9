@@ -1,0 +1,21 @@
+danmaku shooting:
+
+スコア表示
+
+ーーーーーーーーーーーーーーーーーーーーーーーーーーー
+・Game.h、Game.cpp、Player.h、Player.cppを資料のPDFに沿って修正する
+・rankingdata.txtをプロジェクトのある場所におく
+
+・ビルドして確認
+
+
+追加・修正ソース：
+Game.h
+Game.cpp
+Player.h
+Player.cpp
+
+
+追加ファイル：
+rankingdata.txt
+
